@@ -1,0 +1,8 @@
+The Files :
+
+blur.c  effect_layer.c  effect_layer.h  effects.c  effects.h  math.c  math.h
+
+Are imported from the lib EffectLayer from ygalanter : https://github.com/ygalanter/EffectLayer
+They are under Expat License.
+
+The other files are under GPLv3 License. 

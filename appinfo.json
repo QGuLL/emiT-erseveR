@@ -1,0 +1,28 @@
+{
+  "uuid": "80600dfa-01db-4d88-b662-3c8e1315804d",
+  "shortName": "emit esrever",
+  "longName": "emiT esreveR",
+  "companyName": "QGuLL",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": [
+    "basalt"
+  ],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "characterRegex": "[0-9 :]",
+        "type": "font",
+        "name": "ROBOTO_BOLD_35",
+        "file": "Roboto-Bold.ttf"
+      }
+    ]
+  }
+}
